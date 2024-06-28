@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1637952248 source:c:\users\15559\desktop\course1\q2\main.cpp
+	<iostream>
+	<vector>
+	"linear_algebra.h"
+	<fstream>
+
+1637598131 c:\users\15559\desktop\course1\q2\linear_algebra.cpp
+	<iostream>
+	"linear_algebra.h"
+	<cassert>
+
+1637952248 c:\users\15559\desktop\course1\q2\linear_algebra.h
+	<fstream>
+
+1637952248 source:c:\users\15559\desktop\course1\q2\linear_algebra.cpp
+	<iostream>
+	"linear_algebra.h"
+	<cassert>
+	<fstream>
+

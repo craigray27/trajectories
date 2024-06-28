@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1638883352 source:c:\users\15559\desktop\course 2\q4\vector.cpp
+	<cmath>
+	<cassert>
+	<iomanip>
+	"Vector.hpp"
+
+1641666428 c:\users\15559\desktop\course 2\q4\vector.hpp
+	<iostream>
+
+1638305686 source:c:\users\15559\desktop\course 2\q4\abstractodesolver.cpp
+
+1641865651 source:c:\users\15559\desktop\course 2\q4\nbodyode.cpp
+	<iostream>
+	<cmath>
+	"NBodyODE.hpp"
+
+1641865360 c:\users\15559\desktop\course 2\q4\nbodyode.hpp
+	"ODEInterface.hpp"
+	"Vector.hpp"
+
+1641674097 c:\users\15559\desktop\course 2\q4\odeinterface.hpp
+	"Vector.hpp"
+
+1641664611 source:c:\users\15559\desktop\course 2\q4\odeinterface.cpp
+	"ODEInterface.hpp"
+
+1641869639 source:c:\users\15559\desktop\course 2\q4\stoermerverletsolver.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<fstream>
+	<cassert>
+	"StoermerVerletSolver.hpp"
+
+1641865721 c:\users\15559\desktop\course 2\q4\stoermerverletsolver.hpp
+	"ODEInterface.hpp"
+	"AbstractODESolver.hpp"
+
+1641671108 c:\users\15559\desktop\course 2\q4\abstractodesolver.hpp
+	"ODEInterface.hpp"
+	"Vector.hpp"
+
+1641866494 source:c:\users\15559\desktop\course 2\q4\driver.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<algorithm>
+	<chrono>
+	"Vector.hpp"
+	"NBodyODE.hpp"
+	"StoermerVerletSolver.hpp"
+

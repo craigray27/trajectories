@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1637595908 source:c:\users\15559\desktop\course1\q1\main.cpp
+	<iostream>
+	<vector>
+	"csr_matrix.cpp"
+
+1637596067 c:\users\15559\desktop\course1\q1\csr_matrix.cpp
+	<iostream>
+	<vector>
+	"csr_matrix.h"
+
+1637949315 c:\users\15559\desktop\course1\q1\csr_matrix.h
+
+1637952108 source:c:\users\15559\desktop\c++ exercise\course1\q1\csr_matrix.cpp
+	<iostream>
+	"csr_matrix.h"
+
+1637952108 c:\users\15559\desktop\c++ exercise\course1\q1\csr_matrix.h
+
+1637952108 source:c:\users\15559\desktop\c++ exercise\course1\q1\main.cpp
+	<iostream>
+	"csr_matrix.h"
+

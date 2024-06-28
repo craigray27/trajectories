@@ -1,0 +1,30 @@
+Symmetric (1 for symmetric, 0 for not symmetric)
+1
+Number Rows
+4
+Number Nonzeros
+8
+row_start
+0
+3
+5
+7
+8
+column_no
+0
+1
+2
+1
+3
+2
+3
+3
+matrix_entries
+37
+-9
+-9
+37
+-9
+37
+-9
+37

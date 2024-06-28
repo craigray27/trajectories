@@ -1,0 +1,149 @@
+# depslib dependency file v1.0
+1638883352 source:c:\users\15559\desktop\course 2\q3\vector.cpp
+	<cmath>
+	<cassert>
+	<iomanip>
+	"Vector.hpp"
+
+1638883352 c:\users\15559\desktop\course 2\q3\vector.hpp
+	<iostream>
+
+1641589027 source:c:\users\15559\desktop\course 2\q3\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	"Vector.hpp"
+	"OrbitODE.hpp"
+	"ForwardEulerSolver.hpp"
+	"SymplecticEulerSolver.hpp"
+	"StoermerVerletSolver.hpp"
+
+1638883894 source:c:\users\15559\desktop\course 2\q3\odeinterface.cpp
+	"ODEInterface.hpp"
+
+1638883888 c:\users\15559\desktop\course 2\q3\odeinterface.hpp
+	"Vector.hpp"
+
+1641853562 source:c:\users\15559\desktop\course 2\q3\forwardeulersolver.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<fstream>
+	<cassert>
+	"ForwardEulerSolver.hpp"
+
+1641852973 source:c:\users\15559\desktop\course 2\q3\orbitode.cpp
+	<iostream>
+	<cmath>
+	"OrbitODE.hpp"
+
+1641852801 c:\users\15559\desktop\course 2\q3\orbitode.hpp
+	"ODEInterface.hpp"
+	"Vector.hpp"
+
+1641853170 c:\users\15559\desktop\course 2\q3\forwardeulersolver.hpp
+	"ODEInterface.hpp"
+	"AbstractODESolver.hpp"
+
+1638984506 c:\users\15559\desktop\course 2\q3\abstractodesolver.hpp
+	"ODEInterface.hpp"
+	"Vector.hpp"
+
+1641853683 c:\users\15559\desktop\course 2\q3\symplecticeulersolver.hpp
+	"ODEInterface.hpp"
+	"AbstractODESolver.hpp"
+
+1641854343 source:c:\users\15559\desktop\course 2\q3\symplecticeulersolver.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<fstream>
+	<cassert>
+	"SymplecticEulerSolver.hpp"
+
+1641853646 c:\users\15559\desktop\course 2\q3\stoermerverletsolver.hpp
+	"ODEInterface.hpp"
+	"AbstractODESolver.hpp"
+
+1641849753 source:c:\users\15559\desktop\course 2\q3\stoermerverletsolver.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<fstream>
+	<cassert>
+	"StoermerVerletSolver.hpp"
+
+1641853877 source:c:\users\15559\desktop\course 2\q3\driver.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	"Vector.hpp"
+	"OrbitODE.hpp"
+	"ForwardEulerSolver.hpp"
+	"SymplecticEulerSolver.hpp"
+	"StoermerVerletSolver.hpp"
+
+1641853562 source:d:\c++ exercise\course 2\q3\forwardeulersolver.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<fstream>
+	<cassert>
+	"ForwardEulerSolver.hpp"
+
+1641853170 d:\c++ exercise\course 2\q3\forwardeulersolver.hpp
+	"ODEInterface.hpp"
+	"AbstractODESolver.hpp"
+
+1638883888 d:\c++ exercise\course 2\q3\odeinterface.hpp
+	"Vector.hpp"
+
+1638883352 d:\c++ exercise\course 2\q3\vector.hpp
+	<iostream>
+
+1638984506 d:\c++ exercise\course 2\q3\abstractodesolver.hpp
+	"ODEInterface.hpp"
+	"Vector.hpp"
+
+1638883894 source:d:\c++ exercise\course 2\q3\odeinterface.cpp
+	"ODEInterface.hpp"
+
+1641852973 source:d:\c++ exercise\course 2\q3\orbitode.cpp
+	<iostream>
+	<cmath>
+	"OrbitODE.hpp"
+
+1641852801 d:\c++ exercise\course 2\q3\orbitode.hpp
+	"ODEInterface.hpp"
+	"Vector.hpp"
+
+1641865761 source:d:\c++ exercise\course 2\q3\stoermerverletsolver.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<fstream>
+	<cassert>
+	"StoermerVerletSolver.hpp"
+
+1641853646 d:\c++ exercise\course 2\q3\stoermerverletsolver.hpp
+	"ODEInterface.hpp"
+	"AbstractODESolver.hpp"
+
+1641854343 source:d:\c++ exercise\course 2\q3\symplecticeulersolver.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<fstream>
+	<cassert>
+	"SymplecticEulerSolver.hpp"
+
+1641853683 d:\c++ exercise\course 2\q3\symplecticeulersolver.hpp
+	"ODEInterface.hpp"
+	"AbstractODESolver.hpp"
+
+1638883352 source:d:\c++ exercise\course 2\q3\vector.cpp
+	<cmath>
+	<cassert>
+	<iomanip>
+	"Vector.hpp"
+

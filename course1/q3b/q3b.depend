@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1637952833 source:c:\users\15559\desktop\course1\q3b\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	"finite_difference.h"
+
+1637952719 c:\users\15559\desktop\course1\q3b\finite_difference.h
+
+1637952833 source:c:\users\15559\desktop\course1\q3b\finite_difference.cpp
+	<iostream>
+	<cmath>
+	"finite_difference.h"
+
+1637952833 source:c:\users\15559\desktop\c++ exercise\course1\q3b\finite_difference.cpp
+	<iostream>
+	<cmath>
+	"finite_difference.h"
+
+1637952719 c:\users\15559\desktop\c++ exercise\course1\q3b\finite_difference.h
+
+1637952833 source:c:\users\15559\desktop\c++ exercise\course1\q3b\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	"finite_difference.h"
+

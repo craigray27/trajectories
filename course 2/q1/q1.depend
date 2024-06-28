@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1638305126 source:c:\users\15559\desktop\course 2\q1\abstractodesolver.cpp
+
+1638715186 source:c:\users\15559\desktop\course 2\q1\odeinterface.cpp
+	<iostream>
+	"ODEInterface.hpp"
+
+1638715095 c:\users\15559\desktop\course 2\q1\odeinterface.hpp
+
+1641826760 source:c:\users\15559\desktop\course 2\q1\oscillatorode.cpp
+	<iostream>
+	<cmath>
+	"OscillatorODE.hpp"
+
+1641826759 c:\users\15559\desktop\course 2\q1\oscillatorode.hpp
+	"ODEInterface.hpp"
+
+1641829434 source:c:\users\15559\desktop\course 2\q1\driver.cpp
+	<iostream>
+	<cmath>
+	"OscillatorODE.hpp"
+	"ForwardEulerSolver.hpp"
+
+1641829434 source:c:\users\15559\desktop\course 2\q1\forwardeulersolver.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<fstream>
+	<cassert>
+	"ForwardEulerSolver.hpp"
+
+1641829434 c:\users\15559\desktop\course 2\q1\forwardeulersolver.hpp
+	"ODEInterface.hpp"
+	"AbstractODESolver.hpp"
+
+1641829481 c:\users\15559\desktop\course 2\q1\abstractodesolver.hpp
+	"ODEInterface.hpp"
+

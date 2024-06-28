@@ -1,0 +1,5 @@
+Every 3 columns represent a body in all files. 
+For example, in earthandmoon.dat, first 3 columns is the location vector of earth, the second 3 columns is the location vector of moon.
+In fivebodies.dat, they represnt Sun, Mercury, Venus, Earth and Mars respectively 
+
+

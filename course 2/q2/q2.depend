@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1638305682 source:c:\users\15559\desktop\course 2\q2\abstractodesolver.cpp
+
+1639048387 source:c:\users\15559\desktop\course 2\q2\odeinterface.cpp
+	"ODEInterface.hpp"
+
+1639048390 c:\users\15559\desktop\course 2\q2\odeinterface.hpp
+
+1639048431 source:c:\users\15559\desktop\course 2\q2\oscillatorode.cpp
+	<iostream>
+	<cmath>
+	"OscillatorODE.hpp"
+
+1639048431 c:\users\15559\desktop\course 2\q2\oscillatorode.hpp
+	"ODEInterface.hpp"
+
+1641840384 source:c:\users\15559\desktop\course 2\q2\symplecticeulersolver.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<fstream>
+	<cassert>
+	"SymplecticEulerSolver.hpp"
+
+1641835338 c:\users\15559\desktop\course 2\q2\symplecticeulersolver.hpp
+	"ODEInterface.hpp"
+	"AbstractODESolver.hpp"
+
+1639048331 c:\users\15559\desktop\course 2\q2\abstractodesolver.hpp
+	"ODEInterface.hpp"
+
+1641838295 source:c:\users\15559\desktop\course 2\q2\driver.cpp
+	<iostream>
+	<cmath>
+	"OscillatorODE.hpp"
+	"SymplecticEulerSolver.hpp"
+	"StoermerVerletSolver.hpp"
+
+1641835338 c:\users\15559\desktop\course 2\q2\stoermerverletsolver.hpp
+	"ODEInterface.hpp"
+	"AbstractODESolver.hpp"
+
+1641840384 source:c:\users\15559\desktop\course 2\q2\stoermerverletsolver.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<fstream>
+	<cassert>
+	"StoermerVerletSolver.hpp"
+

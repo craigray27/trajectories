@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1637953035 source:c:\users\15559\desktop\course1\q4\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	"linear_algebra q4.h"
+
+1637776895 c:\users\15559\desktop\course1\q4\linear_algebra q4.cpp
+	<iostream>
+	"linear_algebra q4.h"
+
+1637953035 c:\users\15559\desktop\course1\q4\linear_algebra q4.h
+
+1637953035 source:c:\users\15559\desktop\course1\q4\linear_algebra q4.cpp
+	<iostream>
+	<cmath>
+	"linear_algebra q4.h"
+
